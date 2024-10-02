@@ -2,14 +2,16 @@ body {
     background-color:#0c3e55;
     color: rgb(255, 255, 255);
     text-align: center;
-   
+   padding: 20px;
+   padding-left: 450px;
+   padding-right:450px;
  }
  
  
  a { 
     color:rgb(255, 255, 255);
     font-size: 150%;
-    border: black;
+
    
  }
  a:hover {
