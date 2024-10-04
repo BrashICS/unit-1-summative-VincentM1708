@@ -6,23 +6,22 @@ body {
    padding-left: 450px;
    padding-right:450px;
  }
- 
- 
- a { 
+
+
+a { 
     color:rgb(3, 197, 61);
-    font-size: 150%;
+    font-size: 100%;
 
    
  }
-
+ 
  a:hover {
     color:rgb(35, 197, 247);
-    font-size: 200%;
-    transition-duration: 0.5s;
+    font-size: 120%;
+    transition-duration: 0.2s;
     transition-property: font-size, color;
  }
- 
- 
+
  h1 {
     font-size: 450%;
  }
