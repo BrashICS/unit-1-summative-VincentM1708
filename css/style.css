@@ -1,0 +1,29 @@
+body {
+    background-color:#0c3e55;
+    color: rgb(255, 255, 255);
+    text-align: center;
+   padding: 20px;
+   padding-left: 450px;
+   padding-right:450px;
+ }
+ 
+ 
+ a { 
+    color:rgb(3, 197, 61);
+    font-size: 150%;
+
+   
+ }
+
+ 
+ a:hover {
+    color:rgb(35, 197, 247);
+    font-size: 200%;
+    transition-duration: 0.5s;
+    transition-property: font-size, color;
+ }
+ 
+ 
+ h1 {
+    font-size: 450%;
+ }
